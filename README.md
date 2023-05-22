@@ -29,3 +29,7 @@ Hasil Evaluasi Classification problem:
 
 
 Lebih lanjut repo ini akan membandingkan kinerja dari algoritma **Decision Tree** dan **Random Forest** untuk menentukan evaluasi dari algoritma mana yang lebih baik.
+
+
+Poster:![Fraud Detection of Badan Jaminan Kesehatan Masyarakat Hackathon(Comparison Decision Tree and Random Forest)](https://github.com/san-limbong/Binary-Classification-BPJS-Kesehatan/assets/81342084/b6edcdf8-deba-446c-a497-b21eced326d5)
+
